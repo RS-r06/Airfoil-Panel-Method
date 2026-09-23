@@ -88,4 +88,4 @@ method cannot predict drag.]
 
 ## Author
 
-Rehumile Masego Sechele, rehumiles@gmail.com
+Rehumile Sechele, rehumiles@gmail.com
