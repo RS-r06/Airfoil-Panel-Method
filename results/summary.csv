@@ -1,0 +1,4 @@
+airfoil,lift_slope_per_rad_panel,lift_slope_per_rad_thin,zero_lift_angle_deg_panel,zero_lift_angle_deg_thin,cm_quarter_at_0deg_panel,cm_quarter_thin,cd_estimate_zero_lift
+NACA 0012,6.893,6.283,0.0,0.0,0.0,0.0,0.0095
+NACA 2412,6.881,6.283,-2.13,-2.08,-0.0546,-0.0531,0.0095
+NACA 4412,6.868,6.283,-4.26,-4.15,-0.1089,-0.1062,0.0095
